@@ -1,9 +1,10 @@
 {
-	"id": "idk",
-	"authors": ["Dr_Heat_"],
-	"origin": "https://github.com/TheJolkster/7-Days-to-Die",
-	"url": "https://github.com/TheJolkster/7-Days-to-Die",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "383f268a-48a3-4ca5-96f3-a87b73c16bab",
+    "authors": [
+        "Dr_Heat_ - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Dr_Heat_ - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Dr_Heat_ - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Dr_Heat_ - Made with AMP Config Generator"
 }
